@@ -6,3 +6,5 @@ git checkout -b
 git pull
 git fetch 
 git push
+
+pushing from local to github server
